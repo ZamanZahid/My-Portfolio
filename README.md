@@ -42,14 +42,9 @@ I'm Zaman, a high school student from Virginia with a passion for software devel
 
 ## Future Improvements
 
-* Additional project showcases
-* Enhanced animations and UI effects
+* Actual project showcases
 * Dark/Light mode toggle
-* Improved accessibility
-* More interactive features
 
 ## Author
 
-**Zaman Zahid**
-
-High school student passionate about programming, robotics, artificial intelligence, and technology.
+**Zaman Zahid** , A high school student passionate about programming, robotics, artificial intelligence, and technology.
