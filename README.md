@@ -4,27 +4,16 @@
 
 # Personal Portfolio Website
 
-My personal portfolio website built with HTML, CSS, and JAVASCRIPT?. This website basically is a small show and tell of my projects, skills, and interests in programming, robotics, artificial intelligence, and technology.
+My personal portfolio website built with HTML, CSS, and JAVASCRIPT. This website basically is a small show and tell of my projects, skills, and interests in programming, robotics, artificial intelligence, and technology.
 
 ## About
 
 I'm Zaman, a high school student from Virginia with a passion for software development, robotics, and AI. This portfolio highlights some of the projects I've worked on and provides a way for others to learn more about my experience and interests.
 
-## Features
-
-* Responsive design for desktop and mobile
-* Modern navigation bar
-* About Me section
-* Skills and technologies showcase
-* Project portfolio
-* Contact information
-* Smooth scrolling navigation
-* Hidden game??
-
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Git & GitHub
 
@@ -42,11 +31,8 @@ I'm Zaman, a high school student from Virginia with a passion for software devel
 
 ## Future Improvements
 
-* Additional project showcases
-* Enhanced animations and UI effects
-* Dark/Light mode toggle
-* Improved accessibility
-* More interactive features
+* Future project showcase space
+* Dark and Light mode toogle
 
 ## Author
 
