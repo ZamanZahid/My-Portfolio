@@ -1,48 +1,55 @@
+<p align="center">
+  <img src="Banner.png" alt="Portfolio Banner" width="100%">
+</p>
+
 # Personal Portfolio Website
 
-A simple personal portfolio website built using HTML, CSS, and JavaScript.
+My personal portfolio website built with HTML, CSS, and JAVASCRIPT?. This website basically is a small show and tell of my projects, skills, and interests in programming, robotics, artificial intelligence, and technology.
 
 ## About
 
-This website introduces me, my interests, skills, and projects. It serves as a place to showcase my work and learn more about web development.
+I'm Zaman, a high school student from Virginia with a passion for software development, robotics, and AI. This portfolio highlights some of the projects I've worked on and provides a way for others to learn more about my experience and interests.
 
 ## Features
 
-- Responsive design
-- Navigation bar
-- About Me section
-- Skills section
-- Projects section
-- Contact information
-- Smooth scrolling
-
-## Projects Included
-
-### SimpleNotes
-A simple note-taking application for organizing thoughts and ideas.
-
-### RoboSoto
-A robotics project focused on building and programming autonomous systems.
-
-### Self Driving Car Project
-A project exploring computer vision and autonomous driving concepts.
+* Responsive design for desktop and mobile
+* Modern navigation bar
+* About Me section
+* Skills and technologies showcase
+* Project portfolio
+* Contact information
+* Smooth scrolling navigation
+* Hidden game??
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
+* Git & GitHub
 
+## Running the Website
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   ```
+
+2. Open the project folder.
+
+3. Launch `index.html` in your browser.
 
 ## Future Improvements
 
-- Improved styling and animations
-- More project details
-- Dark/light mode toggle
-- Better mobile experience
-- Project screenshots
+* Additional project showcases
+* Enhanced animations and UI effects
+* Dark/Light mode toggle
+* Improved accessibility
+* More interactive features
 
 ## Author
 
-Zaman
-Student developer interested in programming, robotics, AI, and technology.
+**Zaman Zahid**
+
+High school student passionate about programming, robotics, artificial intelligence, and technology.
